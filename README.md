@@ -41,17 +41,6 @@ Start the server
 **Client:** React,TailwindCSS
 
 
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
 ## Demo
 
 [Live-Project](https://fascinating-speculoos-0d1ffe.netlify.app/)
